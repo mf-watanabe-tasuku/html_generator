@@ -1,0 +1,10 @@
+/node_modules
+
+# Ignore all files in the export directory
+!/export
+/export/*
+
+# Ignore all files in the src directory except the main.js
+!/src
+/src/*
+!/src/main.js
